@@ -13,7 +13,7 @@
   },
   "scripts": {
    
-    "deploy": "npm run build",
+    
     
     "start": "react-scripts start",
     "build": "react-scripts build",
